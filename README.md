@@ -22,6 +22,9 @@ The system comprises two main components: NewsAgency and Subscriber.
 ### Expected Behavior
 - When the news agency publishes breaking news, all subscribed users should receive immediate updates.
 - Subscribers can join or leave the service without affecting the delivery of news to other subscribers.
+
+## Class Diagram
+![image](https://github.com/sairarat/Observer-Pattern/blob/master/UML%20Observer%20Pattern.png)
 - The system should provide flexibility for future enhancements, such as personalized subscriptions or categorization of news updates.
 
 ### Constraints
